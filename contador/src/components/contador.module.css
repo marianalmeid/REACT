@@ -1,0 +1,20 @@
+.container{
+  background-color: var(--gray-700);
+}
+
+.titulo{
+  color: var(--primary);
+}
+
+.contadorDisplay {
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: var(--text-default);
+  padding: 2rem;
+}
+
+.botaoContainer {
+  display: flex;
+  gap: 1rem;
+}
+
